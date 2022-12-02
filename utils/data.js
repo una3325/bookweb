@@ -32,7 +32,7 @@ const data = {
       name: '쉽게 배우는 알고리즘',
       slug: 'book1',
       category: 'books',
-      image: '/images/Sb2.jpg',
+      image: '/images/sb2.jpg',
       price: 26190,
       brand: '한빛 아카데미',
       rating: 4.5,
