@@ -18,7 +18,7 @@ export default function Layout({ title, children }) {
   return (
     <>
       <Head>
-        <title>{title ? title + ' - NextShop' : 'NextShop'}</title>
+        <title>{title ? title + ' - Bookweb' : 'Bookweb'}</title>
         <meta name="description" content="Nextjs Ecommerce" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -32,8 +32,8 @@ export default function Layout({ title, children }) {
             </Link>
 
             <div>
-              <Link href="/cart" className="p-2">
-                Cart
+              <Link href="/review" className="p-2">
+                review
               </Link>
 
               {status === 'loading' ? (
@@ -43,7 +43,7 @@ export default function Layout({ title, children }) {
                   <Menu.Button className="text-blue-600">
                     {session.user.name}
                   </Menu.Button>
-                  <Menu.Items className="absolute right-0 w-56 origin-top-right bg-white  shadow-lg ">
+                  <Menu.Items className="absolute right-0 w-56 origin-top-right bg-white shadow-lg ">
                     <Menu.Item>
                       <DropdownLink className="dropdown-link" href="/profile">
                         Profile
