@@ -26,7 +26,7 @@ const data = {
       rating: 4.5,
       numReviews: 8,
       countInStock: 20,
-      description: 'A popular shirt',
+      description: 'a popular book',
     },
     {
       name: '쉽게 배우는 알고리즘',
@@ -38,7 +38,7 @@ const data = {
       rating: 4.5,
       numReviews: 8,
       countInStock: 20,
-      description: 'A popular shirt',
+      description: 'a popular book',
     },
     {
       name: '그리고 아무도 없었다',
@@ -50,7 +50,7 @@ const data = {
       rating: 4.5,
       numReviews: 8,
       countInStock: 20,
-      description: 'A popular shirt',
+      description: 'a popular book',
     },
     {
       name: '셜록홈즈 X-파일',
@@ -62,7 +62,7 @@ const data = {
       rating: 4.5,
       numReviews: 8,
       countInStock: 20,
-      description: 'A popular shirt',
+      description: 'a popular book',
     },
   ],
 }

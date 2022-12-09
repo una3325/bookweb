@@ -2,6 +2,15 @@
   padding: 0 2rem;
 }
 
+.homeTitle {
+  padding: 0 2rem;
+  color: rgb(243, 118, 139);
+  text-align: center;
+  line-height: 300px;
+  text-decoration: underline;
+  font-size: 30px;
+}
+
 .main {
   min-height: 100vh;
   padding: 4rem 0;
