@@ -1,6 +1,10 @@
 .container {
   padding: 0 2rem;
 }
+.img {
+  display: flex;
+  justify-content: center;
+}
 
 .homeTitle {
   padding: 0 2rem;
