@@ -10,7 +10,7 @@ export default function Home() {
       </div>
       <div className={styles.homeTitle}>
         <p>
-          <a href="https://client-gold-mu.vercel.app/">
+          <a href="https://client-pink-eight.vercel.app/">
             리뷰를 작성하려면 클릭해주세요.
           </a>
           <div className={styles.img}>
