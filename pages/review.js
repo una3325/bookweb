@@ -13,6 +13,7 @@ export default function Home() {
           <a href="https://client-pink-eight.vercel.app/">
             리뷰를 작성하려면 클릭해주세요.
           </a>
+
           <div className={styles.img}>
             <img src="/images/aaa.jpg" alt="click" width="200px" />
           </div>
