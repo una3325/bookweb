@@ -6,6 +6,17 @@
   justify-content: center;
 }
 
+.text {
+  padding: 0 2rem;
+  color: palevioletred;
+  text-align: center;
+}
+.texttext {
+  padding: 0 2rem;
+  color: blue;
+  text-align: center;
+  text-decoration: underline;
+}
 .homeTitle {
   padding: 0 2rem;
   color: rgb(243, 118, 139);
